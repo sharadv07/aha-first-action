@@ -7,6 +7,6 @@ jobs:
       - name: Print greetings
         run: |
           echo "Hello World"
-          echo "Is it just me or is it getting cold out there!!!
+          echo "Is it just me or is it getting cold out there!!!"
       - name: Print goodby
         run: echo "Goodbye, all"
